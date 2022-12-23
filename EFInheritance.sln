@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30621.155
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFInheritance", "EFInheritance\EFInheritance.csproj", "{F3EA00BB-AB66-49AD-91EB-C5D4BF2349BD}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF6TPCInheritance", "EF6TPCInheritance\EF6TPCInheritance.csproj", "{024FAA3F-9A40-46EA-A728-774982F34DC9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF6TPCInheritanceConsole", "EF6TPCInheritanceConsole\EF6TPCInheritanceConsole.csproj", "{A6265D14-6087-4783-BE7A-8C86B2E8C0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF7TPCInheritance", "EF7TPCInheritance\EF7TPCInheritance.csproj", "{ACD0DF7D-E99D-4B1F-A72C-41B89224162F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF7TPCInheritanceConsole", "EF7TPCInheritanceConsole\EF7TPCInheritanceConsole.csproj", "{2021ECDB-EBC2-41FC-AC10-1C0C41F543F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{A6265D14-6087-4783-BE7A-8C86B2E8C0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6265D14-6087-4783-BE7A-8C86B2E8C0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6265D14-6087-4783-BE7A-8C86B2E8C0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD0DF7D-E99D-4B1F-A72C-41B89224162F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD0DF7D-E99D-4B1F-A72C-41B89224162F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD0DF7D-E99D-4B1F-A72C-41B89224162F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD0DF7D-E99D-4B1F-A72C-41B89224162F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2021ECDB-EBC2-41FC-AC10-1C0C41F543F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2021ECDB-EBC2-41FC-AC10-1C0C41F543F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2021ECDB-EBC2-41FC-AC10-1C0C41F543F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2021ECDB-EBC2-41FC-AC10-1C0C41F543F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
